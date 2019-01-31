@@ -14,14 +14,6 @@ html {
     line-height: 1.8;
 }
 
-/* Full height image header */
-.bgimg-1 {
-    background-position: center;
-    background-size: cover;
-    background-image: url("../pictures/psf.jpg");
-    min-height: 100%;
-}
-
 .bar .button {
     padding: 16px;
 }
